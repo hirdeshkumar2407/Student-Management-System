@@ -1,12 +1,14 @@
 # Student-Management-System in C Programming Language
 
-[Hirdesh Kumar](
+## Authors
+
+[Hirdesh Kumar](https://github.com/hirdeshkumar2407)
 
 [Syed Mustafa Imam](https://github.com/SyedMustafaImam)
 
 [Syed Hurrar Hassan Rizvi](https://github.com/HurrarHasan)
 
-# Features of the Project
+## Features of the Project
 
 -> Add New Student
 
