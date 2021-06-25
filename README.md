@@ -1,5 +1,10 @@
-# Student-Management-System
-# Using C Programming
+# Student-Management-System in C Programming Language
+
+[Hirdesh Kumar](
+
+[Syed Mustafa Imam](https://github.com/SyedMustafaImam)
+
+[Syed Hurrar Hassan Rizvi](https://github.com/HurrarHasan)
 
 # Features of the Project
 
